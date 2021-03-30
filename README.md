@@ -37,7 +37,7 @@ I prefer working with javascript and closely related technologies like Node, Exp
 
 - Instagram - https://www.instagram.com/cyruscodes/
 
-- Facebook - https://www.facebook.com/cyrus.codes
+- ![image](https://user-images.githubusercontent.com/66904289/112939851-de5e9700-9134-11eb-95ad-a7646f491329.png)Facebook - https://www.facebook.com/cyrus.codes
 
 - Linkedin - https://www.linkedin.com/in/cyruscodes/ 
 
